@@ -476,6 +476,8 @@
 
 ​	![](http://image.leeyom.top/blog/20210811160037.png)
 
+	https://blog.csdn.net/a15980352273/article/details/125035711(看这篇文章就可以，简介明了，SuperDi备注)
+
 ​	**端口号**：
 
 ​		用来表示发送和接受进程。由于 I P层已经把I P数据报分配给T C P或U D P（根据I P首部中协议字段值），因此T C P端口号由T C P来查看，而 U D P端口号由UDP来查看。T C P端口号与UDP端口号是相互独立的。
