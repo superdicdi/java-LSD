@@ -36,7 +36,7 @@
       - [**1、ArrayList和LinkedList**](#1arraylist和linkedlist)
       - [**2、List遍历快速和安全失败**](#2list遍历快速和安全失败)
       - [**3、详细介绍HashMap**](#3详细介绍hashmap)
-      - [**4、ConcurrentHashMap **](#4concurrenthashmap-)
+      - [**4、ConcurrentHashMap**](#4concurrenthashmap-)
       - [**5、序列化和反序列化**](#5序列化和反序列化)
       - [**6、String**](#6string)
     - [设计模式与原则](#设计模式与原则)
